@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'ingrese su edad'
+5
+1
+4
+edad
+4
+1
+27
+'ingrese su saldo en nequi'
+5
+1
+2
+v1
+7
+0
+1
+22
+v1>=80000 and edad>=18
+4
+1
+19
+'no puede ingresar'
+13
+4
+1
+16
+'puede ingresar'
+13
+1

@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'ingrese su edad'
+5
+1
+4
+edad
+4
+1
+31
+'ingrese el total de su compra'
+5
+1
+2
+v1
+7
+0
+1
+20
+edad>80 or v1>220000
+4
+1
+35
+'no puedes participar en el sorteo'
+13
+4
+1
+32
+'podras participar en el sorteo'
+13
+1

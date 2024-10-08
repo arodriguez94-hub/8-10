@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'ingrese su saldo en nequi'
+5
+1
+2
+v1
+4
+1
+20
+'ingrese su estrato'
+5
+1
+1
+e
+7
+0
+1
+19
+v1<1000000 and e<=2
+4
+1
+11
+'no aplica'
+13
+4
+1
+21
+'resiba el beneficio'
+13
+1
